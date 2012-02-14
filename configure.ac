@@ -1,6 +1,6 @@
 AC_PREREQ(2.53)
 
-AC_INIT([sato-icon-theme], [0.1],
+AC_INIT([sato-icon-theme], [0.2],
         [http://www.openedhand.com/])
 AC_CONFIG_SRCDIR([16x16])
 

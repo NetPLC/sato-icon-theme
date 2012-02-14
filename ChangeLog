@@ -1,3 +1,23 @@
+2008-01-15  Ross Burton  <ross@openedhand.com>
+
+	* configure.ac:
+	Version 0.2.
+
+2008-01-15  Ross Burton  <ross@openedhand.com>
+
+	* */apps/Makefile.am:
+	Update makefiles, forgot to do this.
+
+2008-01-15  Ross Burton  <ross@openedhand.com>
+
+	* */apps/file-manager.png:
+	Add file-manager icon.
+
+2007-07-31  Thomas Wood  <thomas@openedhand.com>
+
+	* configure.ac:
+	Version 0.1.
+
 2007-07-31  Thomas Wood  <thomas@openedhand.com>
 
 	* COPYING: Update formatting

@@ -122,7 +122,7 @@ target_alias = @target_alias@
 top_builddir = @top_builddir@
 top_srcdir = @top_srcdir@
 themedir = $(datadir)/icons/Sato/22x22/apps
-theme_DATA = accessories-text-editor.png applications-games.png audio-player.png contacts.png dates.png im-client.png preferences-desktop-theme.png preferences-system.png sync.png tasks.png task-switcher.png utilities-terminal.png video-player.png voice-call.png web-browser.png
+theme_DATA = accessories-text-editor.png applications-games.png audio-player.png contacts.png dates.png file-manager.png im-client.png preferences-desktop-theme.png preferences-system.png sync.png tasks.png task-switcher.png utilities-terminal.png video-player.png voice-call.png web-browser.png
 EXTRA_DIST = $(theme_DATA)
 MAINTAINERCLEANFILES = Makefile.in
 all: all-am
