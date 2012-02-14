@@ -1,3 +1,13 @@
+2008-01-16  Ross Burton  <ross@burtonini.com>
+
+	* configure.ac:
+	Version 0.2.1.
+
+2008-01-16  Ross Burton  <ross@burtonini.com>
+
+	* */apps/file-manager.png:
+	Fix the colour of the icons.
+
 2008-01-15  Ross Burton  <ross@openedhand.com>
 
 	* configure.ac:
