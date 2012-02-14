@@ -1,6 +1,6 @@
 AC_PREREQ(2.53)
 
-AC_INIT([sato-icon-theme], [0.3],
+AC_INIT([sato-icon-theme], [0.3.1],
         [http://www.openedhand.com/])
 AC_CONFIG_SRCDIR([16x16])
 
@@ -27,7 +27,7 @@ if test "x$have_utils" = "xyes"; then
 else
    AC_MSG_RESULT([no])
    AC_MSG_ERROR([icon-naming-utils >= $UTILS_REQUIRED is required to build
-                 and install tango-icon-theme])
+                 and install sato-icon-theme])
 fi
 
 

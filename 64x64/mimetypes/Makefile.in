@@ -309,7 +309,7 @@ uninstall-am: uninstall-themeDATA
 	pdf-am ps ps-am uninstall uninstall-am uninstall-themeDATA
 
 install-data-local: install-themeDATA
-	(cd $(themedir) && $(ICONMAP) -c mimetypes )
+	(cd $(DESTDIR)$(themedir) && $(ICONMAP) -c mimetypes )
 # Tell versions [3.59,3.63) of GNU make to not export all variables.
 # Otherwise a system limit (for SysV at least) may be exceeded.
 .NOEXPORT:
