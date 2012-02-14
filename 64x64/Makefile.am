@@ -1,1 +1,1 @@
-SUBDIRS=apps status places mimetypes actions stock
+SUBDIRS=actions apps devices status places mimetypes stock
