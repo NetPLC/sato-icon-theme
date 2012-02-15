@@ -1,16 +1,20 @@
-Version 0.3.2
-=============
+Version 0.4
+===========
 
+Changes since 0.3:
+
+* Add nm-applet "connecting" animation icons
+* Fix media next/previous icon names
 * Add aliases for the battery icons
-
-Version 0.3.1
-=============
-
+* Add find and go-home icons
 * Minor build fixes
 * Blue gradient icons
+* Dark gray panel icons
 
 Version 0.3
 ===========
+
+Changes since 0.2.1:
 
 * New icons:
  - Removable media (SD/CF/Generic)
