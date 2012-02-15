@@ -123,7 +123,7 @@ target_alias = @target_alias@
 themedir = $(datadir)/icons/Sato/22x22/devices
 top_builddir = @top_builddir@
 top_srcdir = @top_srcdir@
-theme_DATA = media-flash-cf.png media-flash.png media-flash-sd.png
+theme_DATA = drive-harddisk.png media-flash-cf.png media-flash.png media-flash-sd.png
 EXTRA_DIST = $(theme_DATA)
 MAINTAINERCLEANFILES = Makefile.in
 all: all-am
