@@ -1,15 +1,10 @@
 AC_PREREQ(2.53)
 
-AC_INIT([sato-icon-theme], [0.3.1],
+AC_INIT([sato-icon-theme], [0.3.2],
         [http://www.openedhand.com/])
 AC_CONFIG_SRCDIR([16x16])
 
 AM_INIT_AUTOMAKE([1.9 tar-ustar])
-
-AM_MAINTAINER_MODE
-
-#IT_PROG_INTLTOOL([0.35.0])
-
 
 # Define the toplevel path here
 AC_SUBST(themedir, "\${datadir}/icons/Sato")
